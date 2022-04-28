@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 195e7d1024fb4c046b6a5bdce1370a5f, type: 3}
+  m_Name: taxi_green
+  m_EditorClassIdentifier: 
+  meshIn: {fileID: 8842631777021947414, guid: bc60d90308518b64c9bf341feb1cafa8, type: 3}
+  submeshRect:
+  - serializedVersion: 2
+    x: 0.5
+    y: 0
+    width: 0.5
+    height: 0.5
+  meshOut: {fileID: 4300000, guid: f7aa3c722a43f7245b20ef12b8623271, type: 2}

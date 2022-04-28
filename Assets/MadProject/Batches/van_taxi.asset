@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21a69b3d917d5a4d8ddc99dda30436a, type: 3}
+  m_Name: van_taxi
+  m_EditorClassIdentifier: 
+  atlasTextures:
+  - {fileID: 2800000, guid: 5496e95cff4e1704f826020cb3a0fdc4, type: 3}
+  - {fileID: 2800000, guid: b379398256475224ba4f0e81b4e7fe3e, type: 3}
+  - {fileID: 2800000, guid: 4496132bbeb608e4997696851d2bdbbe, type: 3}
+  - {fileID: 2800000, guid: 82c2c709faf58e7478cbc77bece0f9bc, type: 3}
+  size: 2048
+  rects:
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0.5
+    height: 1
+  - serializedVersion: 2
+    x: 0.5
+    y: 0
+    width: 0.5
+    height: 1
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  atlas: {fileID: 2800000, guid: 2b674439fa773e04faadba9acc542f1a, type: 3}
+  material: {fileID: 2100000, guid: ad802e1ccd819be4b8828787e1a4f89a, type: 2}
