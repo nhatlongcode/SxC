@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2199617856475040529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7614054626140104934}
+  - component: {fileID: 4704732791121092400}
+  - component: {fileID: 4900600761893759251}
+  m_Layer: 0
+  m_Name: FHand_M_Prefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7614054626140104934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2199617856475040529}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4704732791121092400
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2199617856475040529}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: ba7064854ef73c4488fc7413dba2c6f9, type: 2}
+  m_Bones:
+  - {fileID: -6360335751962484692, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 8331118588505023389, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -286160635979990050, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -2571879922927856451, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 2187173661296687616, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -7973066500488241304, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 3567048220692867525, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 333512475516880775, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -8309289129479324571, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -3222738581180075355, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -4074212279463225144, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -4985514601541805845, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -8782173119373496550, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 8972783673513671363, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 6837128173195871426, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -6956318318280600866, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -514680547100678130, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -36107168546074715, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -2615649559791726905, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 3769509461735893700, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -4457943888479657781, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 8977120381559489627, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -6853073969017433169, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -5513561790940725322, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 105814341989052458, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 4788358481547188984, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -5917679157510041788, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -7903216416046570028, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -6335104613608664934, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -1273052217356182700, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -5567200129761113266, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -8054262154674655736, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -8645086985037447656, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 3377614056866414840, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: -4524107246900117915, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  - {fileID: 6851256401385388110, guid: 9546d299d86197b4aad22414404433d7, type: 3}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: -0.12785192, y: -0.15744561, z: -0.26711243}
+    m_Extent: {x: 0.34879768, y: 0.3223622, z: 0.40276164}
+  m_DirtyAABB: 0
+--- !u!114 &4900600761893759251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2199617856475040529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c551538b347e4484699a910efa99526a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skinnedMeshRenderer: {fileID: 0}
+  meshRoot: {fileID: 0}
+  listBonePaths:
+  - Bip001 R Forearm
+  - Bip001 R UpperArm
+  - Bip001 R Hand
+  - Bip001 R Finger4
+  - Bip001 R Finger2
+  - Bip001 R Finger3
+  - Bip001 R Finger0
+  - Bip001 R Finger01
+  - Bip001 R Finger02
+  - Bip001 R Finger21
+  - Bip001 R Finger1
+  - Bip001 R Finger22
+  - Bip001 R Finger42
+  - Bip001 R Finger41
+  - Bip001 R Finger32
+  - Bip001 R Finger12
+  - Bip001 R Finger31
+  - Bip001 R Finger11
+  - Bip001 L Forearm
+  - Bip001 L UpperArm
+  - Bip001 L Hand
+  - Bip001 L Finger4
+  - Bip001 L Finger2
+  - Bip001 L Finger3
+  - Bip001 L Finger0
+  - Bip001 L Finger01
+  - Bip001 L Finger02
+  - Bip001 L Finger21
+  - Bip001 L Finger1
+  - Bip001 L Finger22
+  - Bip001 L Finger42
+  - Bip001 L Finger41
+  - Bip001 L Finger32
+  - Bip001 L Finger12
+  - Bip001 L Finger11
+  - Bip001 L Finger31
